@@ -17,3 +17,12 @@ let isLoggedIn = false
 // object 
 
 console.log(typeof null); //object
+
+//Primitive datatype 
+// 7 types : String, Number, Boolean, null, undefined, Symbol, BigInt
+
+//const id = Symbol("123")
+//const anotherId = Symbol("123")****both are differnt.
+
+// Refernce type(Non Primitive)
+// Array, Objects, Functions
